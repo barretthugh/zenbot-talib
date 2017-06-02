@@ -39,6 +39,7 @@
     "run-parallel": "^1.1.6",
     "run-series": "^1.1.4",
     "sosa_mongo": "^1.0.3",
+    "ta-lib": "^0.11.0",
     "talib": "git+https://github.com/oransel/node-talib.git",
     "timebucket": "^0.4.0",
     "webpack": "^1.15.0",
