@@ -1,0 +1,25 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+
+.footer {
+    margin-top:50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.footer-text {
+    padding: 20px;
+}
+
+.footer-text-right {
+    text-align: right;
+}
+
+
+.exchange-image {
+    width:70px;
+}

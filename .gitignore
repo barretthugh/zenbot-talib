@@ -1,0 +1,16 @@
+.DS_Store
+*.tar.gz
+*.log.*
+t.js
+node_modules
+npm-debug.log
+db.json
+dump
+conf/secret.json
+github.pub
+github
+config.js
+config.patch
+data/*
+conf.js
+sim_result*

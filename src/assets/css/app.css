@@ -1,0 +1,48 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+html {
+    position: relative;
+    min-height: 100%;
+    max-width:100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.navbar-right {
+    margin-right: 0px !important
+}
+
+.log {
+    margin: 5px 10px 0 0;
+}
+
+.powered{
+    margin: 15px;
+}
+
+nav.navbar.navbar-default{
+    border-radius: 0px ! important;
+}
+
+.navbar-default {
+    background-color: #ffffff !important;
+    border-bottom: rgba(238, 238, 238, 0.17) 1px solid !important;
+}
+
+.btn-info{
+    color: #fff;
+    background-color: #848484;
+    border-color: #ffffff;
+    border-radius: 2px ! important;
+}
+
+.sub-title{
+    text-align: center;
+    padding-top:15px;
+
+}

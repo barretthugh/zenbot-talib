@@ -1,0 +1,35 @@
+.sessions-table{
+    padding-bottom:50px;
+
+}
+
+.sessions-table-row {
+    min-width:100%;
+    padding:20px;
+}
+
+input[type="radio"] {
+    cursor: pointer;
+}
+
+.sessions-table-tr {
+    background:white;
+}
+
+.sessions-table-tr .table>tbody>tr>td{
+    padding:2px;
+    padding-left:8px;
+}
+
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+    padding:4px !important;
+    padding-left:8px !important;
+}
+
+.sessions-table-tr-header {
+    background:white;
+    text-align: center;
+    font-size:14px;
+    padding:3px;
+}

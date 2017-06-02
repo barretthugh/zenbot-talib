@@ -1,0 +1,12 @@
+.loading{
+    padding:50px;
+}
+
+.chart-container{
+    width:100%;
+    max-width:100%;
+}
+
+.react-stockchart{
+    padding:1%;
+}
