@@ -1,5 +1,5 @@
 server:
-  build: .
+  image: deviavir/zenbot-talib:latest
   volumes:
     - .:/app
     - /app/node_modules
