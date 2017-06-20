@@ -5,6 +5,8 @@
 
 ## New! Chat with other Zenbot users
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeviaVir/zenbot-talib.svg)](https://greenkeeper.io/)
+
 [![zenbot logo](https://rawgit.com/carlos8f/zenbot/master/assets/discord.png)](https://discord.gg/ZdAd2gP)
 
 Zenbot has a Discord chat again! You can get in [through this invite link](https://discord.gg/ZdAd2gP).
